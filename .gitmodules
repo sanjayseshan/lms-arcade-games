@@ -1,0 +1,9 @@
+[submodule "Color_Catcher"]
+	path = Color_Catcher
+	url = https://github.com/sanjayseshan/Color_Catcher
+[submodule "Pacman"]
+	path = Pacman
+	url = https://github.com/sanjayseshan/pacman
+[submodule "Mario-Kart"]
+	path = Mario-Kart
+	url = https://github.com/sanjayseshan/lms-mario
